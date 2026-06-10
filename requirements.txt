@@ -3,3 +3,4 @@ numpy
 matplotlib
 scipy
 scipy
+python-louvain
